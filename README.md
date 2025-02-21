@@ -78,7 +78,9 @@ java Main
    - Add or remove students  
    - Enroll students in courses    
    - Search for student records
+
 3️⃣ **Enter the required details when prompted.**  
+
 4️⃣ **Manage student records efficiently! 🎓**  
 
 ---
