@@ -49,7 +49,7 @@ This **Student Management System** is a console-based Java application that allo
 | `Main.java`      | Contains the main method with a **menu-driven** interface for user interaction. |
 | `Student.java`   | Represents a **student** object with ID, name, and enrolled courses. |
 | `StudentManager.java` | Core **student management logic** (adding/removing students). |
-| `StudentThread.java` | Multithreading class that allows concurrent student operations. |
+| `EnrollmentThread.java` | Multithreading class that allows concurrent student operations. |
 
 ---
 
